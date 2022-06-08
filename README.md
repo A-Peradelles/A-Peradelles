@@ -2,7 +2,7 @@
 
 I'm currently learning Python.
 
-I'm looking for help for initiate in a Programer Career.
+I'm looking for help to initiate in a Programer Career.
 
 Linkedin: https://www.linkedin.com/in/andre-peradelles-244626134/
 
