@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently learning Python.
+
+I'm looking for help for initiate in a Programer Career.
+
+Linkedin: https://www.linkedin.com/in/andre-peradelles-244626134/
+
 <!--
 **A-Peradelles/A-Peradelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
